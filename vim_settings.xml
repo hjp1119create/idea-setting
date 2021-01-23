@@ -11,9 +11,7 @@
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
-    <filemarks>
-      <file name="I:/java/spring-data-examples/geode/events/src/main/java/example/springdata/geode/server/events/CustomerRepository.java" timestamp="1611408419706" />
-    </filemarks>
+    <filemarks />
     <jumps />
   </component>
   <component name="VimRegisterSettings">
@@ -33,7 +31,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
