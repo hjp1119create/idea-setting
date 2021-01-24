@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/hjp1119create/winsetup" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="hjp1119create@gmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="I:\java" />
