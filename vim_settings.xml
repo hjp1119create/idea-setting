@@ -21,6 +21,12 @@
       <file name="/Dummy.txt" timestamp="1611467064401">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="I:/java/winsetup/README.MD" timestamp="1611470462436">
+        <mark key="[" line="25" column="3" />
+        <mark key="]" line="25" column="5" />
+        <mark key="^" line="25" column="5" />
+        <mark key="." line="25" column="4" />
+      </file>
     </filemarks>
     <jumps />
   </component>
@@ -41,7 +47,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
