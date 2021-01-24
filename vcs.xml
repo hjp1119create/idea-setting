@@ -6,8 +6,13 @@
           <option name="url" value="http://code.aliyun.com" />
           <option name="userName" value="hanjiangping@yuantu.onaliyun.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/hjp1119create/idea-setting" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\Users\han\IdeaProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
