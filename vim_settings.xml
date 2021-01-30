@@ -33,6 +33,12 @@
         <mark key="^" line="25" column="5" />
         <mark key="." line="25" column="4" />
       </file>
+      <file name="I:/java/jpa2/src/main/java/generate/Address.java" timestamp="1611964702862">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="4" />
+        <mark key="." line="20" column="4" />
+        <mark key="^" line="20" column="4" />
+      </file>
       <file name="I:/java/jpa2/src/main/java/generate/AddressDao.java" timestamp="1611964558328">
         <mark key="[" line="15" column="4" />
         <mark key="]" line="15" column="6" />
@@ -44,11 +50,21 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="1" type="2">
-        <text>}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgQnl0ZSBpc0RlbGV0ZWQ7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="1" type="8">
+        <text>priva
+     
+priva</text>
+      </register>
+      <register name="&quot;" type="8">
+        <text>priva
+     
+priva</text>
+      </register>
+      <register name="2" type="2">
+        <text>}</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -62,7 +78,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
