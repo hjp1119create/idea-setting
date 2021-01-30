@@ -13,6 +13,12 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -27,11 +33,20 @@
         <mark key="^" line="25" column="5" />
         <mark key="." line="25" column="4" />
       </file>
+      <file name="I:/java/jpa2/src/main/java/generate/AddressDao.java" timestamp="1611964558328">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="6" />
+        <mark key="." line="15" column="5" />
+        <mark key="^" line="15" column="6" />
+      </file>
     </filemarks>
     <jumps />
   </component>
   <component name="VimRegisterSettings">
     <registers>
+      <register name="1" type="2">
+        <text>}</text>
+      </register>
       <register name="&quot;" type="4">
         <text>i</text>
       </register>
@@ -47,7 +62,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
