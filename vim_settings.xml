@@ -51,26 +51,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/servlet/ValidateCodeServlet.java" timestamp="1612104904847" />
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/persistence/CrudDao.java" timestamp="1612103719757" />
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/service/BaseService.java" timestamp="1612104663927" />
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/persistence/MapperLoader.java" timestamp="1612104458097" />
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/security/Cryptos.java" timestamp="1612104640459" />
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/modules/crm/web/CrmInfoController.java" timestamp="1612105001053" />
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/utils/excel/ExportExcel.java" timestamp="1612105012408" />
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/persistence/interceptor/PaginationInterceptor.java" timestamp="1612103054610" />
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/security/Digests.java" timestamp="1612104657155" />
-      <file name="I:/java/hc_screening/src/main/resources/spring-context-shiro.xml" timestamp="1612104551337" />
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/utils/Reflections.java" timestamp="1612103446786" />
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/supcan/annotation/treelist/SupTreeList.java" timestamp="1612104926939" />
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/persistence/TreeEntity.java" timestamp="1612103911510" />
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/persistence/interceptor/PreparePaginationInterceptor.java" timestamp="1612103550976" />
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/persistence/interceptor/BaseInterceptor.java" timestamp="1612103035223" />
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/service/TreeService.java" timestamp="1612104723028" />
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/security/shiro/session/CacheSessionDAO.java" timestamp="1612104623294" />
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/persistence/interceptor/SQLHelper.java" timestamp="1612103509730" />
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/persistence/Parameter.java" timestamp="1612103769950" />
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/servlet/UserfilesDownloadServlet.java" timestamp="1612104806907" />
+      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/utils/AppDesUtils.java" timestamp="1612131078036">
+        <mark key="[" line="92" column="54" />
+      </file>
+      <file name="I:/java/ytmonitor/web/src/main/java/com/yuantu/controller/wechat/WechatLoginController.java" timestamp="1612131701010" />
+      <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ConcurrentHashMap.java" timestamp="1612131494462" />
+      <file name="I:/java/jpa2/src/main/resources/mapper/AssetDao.xml" timestamp="1612131030873" />
+      <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/LinkedHashMap.java" timestamp="1612131339606" />
+      <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/RandomAccess.java" timestamp="1612130828653" />
     </filemarks>
     <jumps>
       <jump line="32" column="35" filename="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/utils/DateUtils.java" />
