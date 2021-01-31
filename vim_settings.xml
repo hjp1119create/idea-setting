@@ -4,7 +4,7 @@
   </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -51,31 +51,32 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/commons-lang3-3.8.1-sources.jar!/org/apache/commons/lang3/time/FastDateParser.java" timestamp="1612062395217" />
       <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/modules/cms/entity/Article.java" timestamp="1612064961970" />
       <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/spring-context-5.1.5.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/OptionalValidatorFactoryBean.java" timestamp="1612066279697" />
       <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/hibernate-validator-7.0.0.Final-sources.jar!/org/hibernate/validator/internal/constraintvalidators/bv/EmailValidator.java" timestamp="1612066386169" />
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/xstream/DateTimeConverter.java" timestamp="1612062529294">
-        <mark key="[" line="39" column="1" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="39" column="0" />
-      </file>
-      <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/hibernate-validator-7.0.0.Final-sources.jar!/org/hibernate/validator/constraints/Length.java" timestamp="1612062982988" />
+      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/utils/PropertiesLoader.java" timestamp="1612087650932" />
+      <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/ehcache-2.10.3-sources.jar!/javax/validation/Validator.java" timestamp="1612086742852" />
       <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/views/modules/cms/commentList.jsp" timestamp="1612064228580">
         <mark key="'" line="60" column="0" />
       </file>
       <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/modules/cms/web/ArticleController.java" timestamp="1612064843602" />
-      <file name="F:/apache-maven-3.5.2/repo/org/activiti/activiti-bpmn-converter/5.22.0/activiti-bpmn-converter-5.22.0-sources.jar!/org/activiti/bpmn/converter/BpmnXMLConverter.java" timestamp="1612062633778" />
+      <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/hibernate-validator-7.0.0.Final-sources.jar!/org/hibernate/validator/internal/engine/ValidatorFactoryImpl.java" timestamp="1612086649660" />
       <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/modules/sys/utils/UserUtils.java" timestamp="1612065089151" />
       <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/spring-context-5.1.5.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/SpringValidatorAdapter.java" timestamp="1612065542934" />
+      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/config/Global.java" timestamp="1612087614511" />
       <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/modules/cms/web/CommentController.java" timestamp="1612064811637" />
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/web/BaseController.java" timestamp="1612064828017" />
-      <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/hibernate-validator-7.0.0.Final-sources.jar!/org/hibernate/validator/internal/metadata/core/ConstraintHelper.java" timestamp="1612071040154" />
-      <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/spring-webmvc-5.1.5.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/support/RedirectAttributes.java" timestamp="1612064162205" />
+      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/beanvalidator/EditGroup.java" timestamp="1612086822043" />
+      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/web/BaseController.java" timestamp="1612086773908">
+        <mark key="[" line="116" column="20" />
+        <mark key="]" line="116" column="20" />
+        <mark key="." line="116" column="20" />
+      </file>
+      <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/hibernate-validator-7.0.0.Final-sources.jar!/org/hibernate/validator/internal/metadata/core/ConstraintHelper.java" timestamp="1612086566543">
+        <mark key="'" line="707" column="0" />
+      </file>
+      <file name="I:/java/hc_screening/src/main/resources/jeesite.properties" timestamp="1612087489557" />
       <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/persistence/BaseEntity.java" timestamp="1612065080943" />
-      <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/spring-context-5.1.5.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/CustomValidatorBean.java" timestamp="1612063329077" />
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/beanvalidator/BeanValidators.java" timestamp="1612063160904" />
+      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/beanvalidator/BeanValidators.java" timestamp="1612086751184" />
       <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/persistence/DataEntity.java" timestamp="1612065338324" />
       <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/tags/sys/message.tag" timestamp="1612064222362" />
     </filemarks>
@@ -83,6 +84,7 @@
       <jump line="32" column="35" filename="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/utils/DateUtils.java" />
       <jump line="0" column="0" filename="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/utils/DateUtils.java" />
       <jump line="60" column="0" filename="I:/java/hc_screening/src/main/webapp/WEB-INF/views/modules/cms/commentList.jsp" />
+      <jump line="707" column="0" filename="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/hibernate-validator-7.0.0.Final-sources.jar!/org/hibernate/validator/internal/metadata/core/ConstraintHelper.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -93,8 +95,8 @@
       <register name="1" type="2">
         <text encoding="base64">CglwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7Cgl9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CglwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7Cgl9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="2" type="8">
         <text>priva
@@ -105,7 +107,7 @@ priva</text>
         <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>e</text>
       </register>
     </registers>
   </component>
