@@ -7,7 +7,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -57,12 +57,16 @@
       <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/utils/PropertiesLoader.java" timestamp="1612087855720" />
       <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/ehcache-2.10.3-sources.jar!/javax/validation/Validator.java" timestamp="1612086742852" />
       <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/hibernate-validator-7.0.0.Final-sources.jar!/org/hibernate/validator/internal/engine/ValidatorFactoryImpl.java" timestamp="1612086649660" />
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/modules/sys/utils/UserUtils.java" timestamp="1612065089151" />
       <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/spring-context-5.1.5.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/SpringValidatorAdapter.java" timestamp="1612065542934" />
+      <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/dozer-core-6.2.0-sources.jar!/org/dozer/MappingProcessor.java" timestamp="1612088901186" />
       <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/config/Global.java" timestamp="1612087892350" />
       <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/mapper/adapters/MapConvertor.java" timestamp="1612088261193" />
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/mapper/BeanMapper.java" timestamp="1612088326700" />
+      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/mapper/BeanMapper.java" timestamp="1612088394122" />
+      <file name="I:/java/spring-boot-activiti/pom.xml" timestamp="1612089171411">
+        <mark key="[" line="280" column="0" />
+      </file>
       <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/beanvalidator/EditGroup.java" timestamp="1612086822043" />
+      <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/dozer-core-6.2.0-sources.jar!/org/dozer/classmap/ClassMappings.java" timestamp="1612088939117" />
       <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/web/BaseController.java" timestamp="1612086773908">
         <mark key="[" line="116" column="20" />
         <mark key="]" line="116" column="20" />
@@ -73,10 +77,8 @@
       </file>
       <file name="I:/java/hc_screening/src/main/resources/jeesite.properties" timestamp="1612087489557" />
       <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/spring-core-5.1.5.RELEASE-sources.jar!/org/springframework/core/io/DefaultResourceLoader.java" timestamp="1612087820183" />
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/persistence/BaseEntity.java" timestamp="1612065080943" />
       <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/filter/PageCachingFilter.java" timestamp="1612087967510" />
       <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/beanvalidator/BeanValidators.java" timestamp="1612086751184" />
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/persistence/DataEntity.java" timestamp="1612065338324" />
     </filemarks>
     <jumps>
       <jump line="32" column="35" filename="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/utils/DateUtils.java" />
