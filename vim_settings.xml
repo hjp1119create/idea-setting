@@ -22,7 +22,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -37,24 +37,18 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed BACK_SLASH</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1611467064401">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/text/spi/DateFormatProvider.java" timestamp="1612060989167" />
       <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/commons-lang3-3.8.1-sources.jar!/org/apache/commons/lang3/time/FastDateParser.java" timestamp="1612062395217" />
       <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/commons-lang3-3.8.1-sources.jar!/org/apache/commons/lang3/time/FastDatePrinter.java" timestamp="1612061937910" />
       <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/commons-lang3-3.8.1-sources.jar!/org/apache/commons/lang3/time/DateUtils.java" timestamp="1612062328528" />
-      <file name="I:/java/winsetup/README.MD" timestamp="1611470462436">
-        <mark key="[" line="25" column="3" />
-        <mark key="]" line="25" column="5" />
-        <mark key="^" line="25" column="5" />
-        <mark key="." line="25" column="4" />
-      </file>
       <file name="I:/java/jpa2/src/main/java/generate/Address.java" timestamp="1611964702862">
         <mark key="[" line="20" column="4" />
         <mark key="]" line="20" column="4" />
@@ -67,7 +61,8 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="0" />
       </file>
-      <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/hibernate-validator-7.0.0.Final-sources.jar!/org/hibernate/validator/constraints/Length.java" timestamp="1612062622533" />
+      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/web/BaseController.java" timestamp="1612063403884" />
+      <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/hibernate-validator-7.0.0.Final-sources.jar!/org/hibernate/validator/constraints/Length.java" timestamp="1612062982988" />
       <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/utils/DateUtils.java" timestamp="1612062028331">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="32" column="36" />
@@ -76,20 +71,23 @@
         <mark key="." line="32" column="35" />
       </file>
       <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/commons-lang3-3.8.1-sources.jar!/org/apache/commons/lang3/time/FormatCache.java" timestamp="1612061872720" />
-      <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/commons-lang3-3.8.1-sources.jar!/org/apache/commons/lang3/time/FastDateFormat.java" timestamp="1612061841794" />
-      <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ConcurrentMap.java" timestamp="1612061522171" />
-      <file name="I:/java/jpa2/src/main/java/generate/AddressDao.java" timestamp="1611964558328">
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="15" column="6" />
-        <mark key="." line="15" column="5" />
-        <mark key="^" line="15" column="6" />
+      <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/views/modules/cms/commentList.jsp" timestamp="1612063510671">
+        <mark key="'" line="60" column="0" />
       </file>
+      <file name="F:/apache-maven-3.5.2/repo/org/activiti/activiti-bpmn-converter/5.22.0/activiti-bpmn-converter-5.22.0-sources.jar!/org/activiti/bpmn/converter/BpmnXMLConverter.java" timestamp="1612062633778" />
+      <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/commons-lang3-3.8.1-sources.jar!/org/apache/commons/lang3/time/FastDateFormat.java" timestamp="1612061841794" />
+      <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/spring-context-5.1.5.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/SpringValidatorAdapter.java" timestamp="1612063332362" />
+      <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/spring-context-5.1.5.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/CustomValidatorBean.java" timestamp="1612063329077" />
+      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/beanvalidator/BeanValidators.java" timestamp="1612063160904" />
+      <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ConcurrentMap.java" timestamp="1612061522171" />
       <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/commons-lang3-3.8.1-sources.jar!/org/apache/commons/lang3/time/DateFormatUtils.java" timestamp="1612060424116" />
       <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/text/DateFormat.java" timestamp="1612060978595" />
+      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/modules/cms/web/CommentController.java" timestamp="1612063495710" />
     </filemarks>
     <jumps>
       <jump line="32" column="35" filename="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/utils/DateUtils.java" />
       <jump line="0" column="0" filename="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/utils/DateUtils.java" />
+      <jump line="60" column="0" filename="I:/java/hc_screening/src/main/webapp/WEB-INF/views/modules/cms/commentList.jsp" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
