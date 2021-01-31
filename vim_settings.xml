@@ -19,6 +19,15 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -26,6 +35,13 @@
     <filemarks>
       <file name="/Dummy.txt" timestamp="1611467064401">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/utils/DateUtils.java" timestamp="1612060288699">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="32" column="36" />
+        <mark key="]" line="32" column="36" />
+        <mark key="^" line="32" column="36" />
+        <mark key="." line="32" column="35" />
       </file>
       <file name="I:/java/winsetup/README.MD" timestamp="1611470462436">
         <mark key="[" line="25" column="3" />
@@ -46,7 +62,10 @@
         <mark key="^" line="15" column="6" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="32" column="35" filename="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/utils/DateUtils.java" />
+      <jump line="0" column="0" filename="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/utils/DateUtils.java" />
+    </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
@@ -78,7 +97,7 @@ priva</text>
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
