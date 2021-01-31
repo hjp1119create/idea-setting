@@ -51,34 +51,32 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/mapper/adapters/MapAdapter.java" timestamp="1612088287783" />
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/mapper/JsonMapper.java" timestamp="1612089241370" />
-      <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/spring-context-5.1.5.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/OptionalValidatorFactoryBean.java" timestamp="1612066279697" />
-      <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/hibernate-validator-7.0.0.Final-sources.jar!/org/hibernate/validator/internal/constraintvalidators/bv/EmailValidator.java" timestamp="1612066386169" />
+      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/mapper/JaxbMapper.java" timestamp="1612101621149" />
       <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/utils/PropertiesLoader.java" timestamp="1612087855720" />
+      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/config/Global.java" timestamp="1612087892350" />
+      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/beanvalidator/EditGroup.java" timestamp="1612086822043" />
+      <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/spring-core-5.1.5.RELEASE-sources.jar!/org/springframework/core/io/DefaultResourceLoader.java" timestamp="1612087820183" />
+      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/beanvalidator/BeanValidators.java" timestamp="1612086751184" />
+      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/mapper/adapters/MapAdapter.java" timestamp="1612088287783" />
+      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/mapper/JsonMapper.java" timestamp="1612101581521" />
+      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/utils/Reflections.java" timestamp="1612101639931" />
       <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/ehcache-2.10.3-sources.jar!/javax/validation/Validator.java" timestamp="1612086742852" />
       <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/hibernate-validator-7.0.0.Final-sources.jar!/org/hibernate/validator/internal/engine/ValidatorFactoryImpl.java" timestamp="1612086649660" />
+      <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/ehcache-2.10.3-sources.jar!/com/fasterxml/jackson/annotation/JsonInclude.java" timestamp="1612101370190" />
       <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/dozer-core-6.2.0-sources.jar!/org/dozer/MappingProcessor.java" timestamp="1612088901186" />
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/config/Global.java" timestamp="1612087892350" />
       <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/mapper/adapters/MapConvertor.java" timestamp="1612088261193" />
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/mapper/BeanMapper.java" timestamp="1612088394122" />
+      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/mapper/BeanMapper.java" timestamp="1612101247773" />
       <file name="I:/java/spring-boot-activiti/pom.xml" timestamp="1612089171411">
         <mark key="[" line="280" column="0" />
       </file>
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/beanvalidator/EditGroup.java" timestamp="1612086822043" />
       <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/dozer-core-6.2.0-sources.jar!/org/dozer/classmap/ClassMappings.java" timestamp="1612088939117" />
       <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/web/BaseController.java" timestamp="1612086773908">
         <mark key="[" line="116" column="20" />
         <mark key="]" line="116" column="20" />
         <mark key="." line="116" column="20" />
       </file>
-      <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/hibernate-validator-7.0.0.Final-sources.jar!/org/hibernate/validator/internal/metadata/core/ConstraintHelper.java" timestamp="1612086566543">
-        <mark key="'" line="707" column="0" />
-      </file>
       <file name="I:/java/hc_screening/src/main/resources/jeesite.properties" timestamp="1612087489557" />
-      <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/spring-core-5.1.5.RELEASE-sources.jar!/org/springframework/core/io/DefaultResourceLoader.java" timestamp="1612087820183" />
       <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/filter/PageCachingFilter.java" timestamp="1612087967510" />
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/beanvalidator/BeanValidators.java" timestamp="1612086751184" />
     </filemarks>
     <jumps>
       <jump line="32" column="35" filename="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/utils/DateUtils.java" />
