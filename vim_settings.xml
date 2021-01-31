@@ -28,6 +28,15 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed I</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -36,13 +45,10 @@
       <file name="/Dummy.txt" timestamp="1611467064401">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/utils/DateUtils.java" timestamp="1612060288699">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="32" column="36" />
-        <mark key="]" line="32" column="36" />
-        <mark key="^" line="32" column="36" />
-        <mark key="." line="32" column="35" />
-      </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/text/spi/DateFormatProvider.java" timestamp="1612060989167" />
+      <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/commons-lang3-3.8.1-sources.jar!/org/apache/commons/lang3/time/FastDateParser.java" timestamp="1612062395217" />
+      <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/commons-lang3-3.8.1-sources.jar!/org/apache/commons/lang3/time/FastDatePrinter.java" timestamp="1612061937910" />
+      <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/commons-lang3-3.8.1-sources.jar!/org/apache/commons/lang3/time/DateUtils.java" timestamp="1612062328528" />
       <file name="I:/java/winsetup/README.MD" timestamp="1611470462436">
         <mark key="[" line="25" column="3" />
         <mark key="]" line="25" column="5" />
@@ -55,12 +61,31 @@
         <mark key="." line="20" column="4" />
         <mark key="^" line="20" column="4" />
       </file>
+      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/xstream/DateTimeConverter.java" timestamp="1612062529294">
+        <mark key="[" line="39" column="1" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="0" />
+      </file>
+      <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/hibernate-validator-7.0.0.Final-sources.jar!/org/hibernate/validator/constraints/Length.java" timestamp="1612062622533" />
+      <file name="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/utils/DateUtils.java" timestamp="1612062028331">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="32" column="36" />
+        <mark key="]" line="32" column="36" />
+        <mark key="^" line="32" column="36" />
+        <mark key="." line="32" column="35" />
+      </file>
+      <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/commons-lang3-3.8.1-sources.jar!/org/apache/commons/lang3/time/FormatCache.java" timestamp="1612061872720" />
+      <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/commons-lang3-3.8.1-sources.jar!/org/apache/commons/lang3/time/FastDateFormat.java" timestamp="1612061841794" />
+      <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ConcurrentMap.java" timestamp="1612061522171" />
       <file name="I:/java/jpa2/src/main/java/generate/AddressDao.java" timestamp="1611964558328">
         <mark key="[" line="15" column="4" />
         <mark key="]" line="15" column="6" />
         <mark key="." line="15" column="5" />
         <mark key="^" line="15" column="6" />
       </file>
+      <file name="I:/java/hc_screening/src/main/webapp/WEB-INF/lib/commons-lang3-3.8.1-sources.jar!/org/apache/commons/lang3/time/DateFormatUtils.java" timestamp="1612060424116" />
+      <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/text/DateFormat.java" timestamp="1612060978595" />
     </filemarks>
     <jumps>
       <jump line="32" column="35" filename="I:/java/hc_screening/src/main/java/com/thinkgem/jeesite/common/utils/DateUtils.java" />
@@ -72,17 +97,18 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQnl0ZSBpc0RlbGV0ZWQ7Cg==</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">CglwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7Cgl9Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CglwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7Cgl9Cg==</text>
+      </register>
+      <register name="2" type="8">
         <text>priva
      
 priva</text>
       </register>
-      <register name="&quot;" type="8">
-        <text>priva
-     
-priva</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text>}</text>
       </register>
       <register name="-" type="4">
