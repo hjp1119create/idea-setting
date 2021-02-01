@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="pst" value="@org.junit.Test&#10;    public void test() {&#10;        &#10;    }" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
