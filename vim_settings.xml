@@ -60,11 +60,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="I:/java/spring-boot-activiti/src/test/java/com/yuantu/RestTest.java" timestamp="1612187160526">
-        <mark key="[" line="69" column="122" />
-        <mark key="]" line="75" column="28" />
+      <file name="I:/java/spring-boot-activiti/src/test/java/com/yuantu/RestTest.java" timestamp="1612187864199">
+        <mark key="[" line="73" column="65" />
+        <mark key="]" line="73" column="65" />
         <mark key="^" line="75" column="28" />
-        <mark key="." line="75" column="27" />
+        <mark key="." line="73" column="65" />
       </file>
       <file name="I:/java/spring-boot-activiti/src/main/resources/application-uat.yml" timestamp="1612184844686">
         <mark key="[" line="58" column="30" />
@@ -84,7 +84,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="I:/java/spring-boot-activiti/src/main/test/com/yuantu/ListenerTests.java" timestamp="1612184688926" />
-      <file name="F:/apache-maven-3.5.2/repo/org/springframework/spring-core/5.1.5.RELEASE/spring-core-5.1.5.RELEASE-sources.jar!/org/springframework/core/ParameterizedTypeReference.java" timestamp="1612180090503" />
+      <file name="F:/apache-maven-3.5.2/repo/org/springframework/spring-core/5.1.5.RELEASE/spring-core-5.1.5.RELEASE-sources.jar!/org/springframework/core/ParameterizedTypeReference.java" timestamp="1612187431358" />
       <file name="I:/java/spring-boot-activiti/src/main/java/com/yuantu/vo/DeviceFaultVO.java" timestamp="1612184603036">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -124,7 +124,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>forObject</text>
+        <text>,</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBPYmplY3QgZm9yT2JqZWN0ID0gcmVzdFRlbXBsYXRlLnBvc3RGb3JPYmplY3QoYmFzZSArICJjb3JwL2xpc3QiLCBjb3JwUXVlcnksIE9iamVjdC5jbGFzcyk7Cg==</text>
@@ -151,7 +151,7 @@
         <text encoding="base64">ICAgICAgICBwYWdlLnNldEN1cnJlbnQoMSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>forObject</text>
+        <text>,</text>
       </register>
     </registers>
   </component>
