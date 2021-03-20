@@ -1,0 +1,6 @@
+<application>
+  <component name="DependencyUISettings">
+    <option name="UI_SHOW_FILES" value="false" />
+    <option name="UI_COMPACT_EMPTY_MIDDLE_PACKAGES" value="false" />
+  </component>
+</application>
