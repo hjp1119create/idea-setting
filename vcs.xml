@@ -42,6 +42,10 @@
           <option name="url" value="https://code.aliyun.com/yuantu_datacenter/monitor-data-services.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/confluentinc/kafka-streams-examples" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="I:\java" />
